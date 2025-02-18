@@ -1,0 +1,14 @@
+C:\C sharp\Constructor\Constructor\bin\Debug\net8.0\Constructor.exe
+C:\C sharp\Constructor\Constructor\bin\Debug\net8.0\Constructor.deps.json
+C:\C sharp\Constructor\Constructor\bin\Debug\net8.0\Constructor.runtimeconfig.json
+C:\C sharp\Constructor\Constructor\bin\Debug\net8.0\Constructor.dll
+C:\C sharp\Constructor\Constructor\bin\Debug\net8.0\Constructor.pdb
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\Constructor.AssemblyInfoInputs.cache
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\Constructor.AssemblyInfo.cs
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\Constructor.csproj.CoreCompileInputs.cache
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\Constructor.dll
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\refint\Constructor.dll
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\Constructor.pdb
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\Constructor.genruntimeconfig.cache
+C:\C sharp\Constructor\Constructor\obj\Debug\net8.0\ref\Constructor.dll

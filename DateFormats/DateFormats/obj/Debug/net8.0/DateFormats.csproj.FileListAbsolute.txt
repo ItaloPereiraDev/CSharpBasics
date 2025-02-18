@@ -1,0 +1,14 @@
+C:\C sharp\DateFormats\DateFormats\bin\Debug\net8.0\DateFormats.exe
+C:\C sharp\DateFormats\DateFormats\bin\Debug\net8.0\DateFormats.deps.json
+C:\C sharp\DateFormats\DateFormats\bin\Debug\net8.0\DateFormats.runtimeconfig.json
+C:\C sharp\DateFormats\DateFormats\bin\Debug\net8.0\DateFormats.dll
+C:\C sharp\DateFormats\DateFormats\bin\Debug\net8.0\DateFormats.pdb
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\DateFormats.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\DateFormats.AssemblyInfoInputs.cache
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\DateFormats.AssemblyInfo.cs
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\DateFormats.csproj.CoreCompileInputs.cache
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\DateFormats.dll
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\refint\DateFormats.dll
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\DateFormats.pdb
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\DateFormats.genruntimeconfig.cache
+C:\C sharp\DateFormats\DateFormats\obj\Debug\net8.0\ref\DateFormats.dll

@@ -1,0 +1,14 @@
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net8.0\OperadoresMatematicos.exe
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net8.0\OperadoresMatematicos.deps.json
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net8.0\OperadoresMatematicos.runtimeconfig.json
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net8.0\OperadoresMatematicos.dll
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\bin\Debug\net8.0\OperadoresMatematicos.pdb
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\OperadoresMatematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\OperadoresMatematicos.AssemblyInfoInputs.cache
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\OperadoresMatematicos.AssemblyInfo.cs
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\OperadoresMatematicos.csproj.CoreCompileInputs.cache
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\OperadoresMatematicos.dll
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\refint\OperadoresMatematicos.dll
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\OperadoresMatematicos.pdb
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\OperadoresMatematicos.genruntimeconfig.cache
+C:\C sharp\OperadoresMatematicos\OperadoresMatematicos\obj\Debug\net8.0\ref\OperadoresMatematicos.dll

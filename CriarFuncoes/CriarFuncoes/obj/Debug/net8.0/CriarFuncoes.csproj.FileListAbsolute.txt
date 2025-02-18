@@ -1,0 +1,14 @@
+C:\C sharp\CriarFuncoes\CriarFuncoes\bin\Debug\net8.0\CriarFuncoes.exe
+C:\C sharp\CriarFuncoes\CriarFuncoes\bin\Debug\net8.0\CriarFuncoes.deps.json
+C:\C sharp\CriarFuncoes\CriarFuncoes\bin\Debug\net8.0\CriarFuncoes.runtimeconfig.json
+C:\C sharp\CriarFuncoes\CriarFuncoes\bin\Debug\net8.0\CriarFuncoes.dll
+C:\C sharp\CriarFuncoes\CriarFuncoes\bin\Debug\net8.0\CriarFuncoes.pdb
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\CriarFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\CriarFuncoes.AssemblyInfoInputs.cache
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\CriarFuncoes.AssemblyInfo.cs
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\CriarFuncoes.csproj.CoreCompileInputs.cache
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\CriarFuncoes.dll
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\refint\CriarFuncoes.dll
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\CriarFuncoes.pdb
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\CriarFuncoes.genruntimeconfig.cache
+C:\C sharp\CriarFuncoes\CriarFuncoes\obj\Debug\net8.0\ref\CriarFuncoes.dll

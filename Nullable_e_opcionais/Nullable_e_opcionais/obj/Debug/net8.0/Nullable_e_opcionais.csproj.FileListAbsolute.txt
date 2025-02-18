@@ -1,0 +1,14 @@
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\bin\Debug\net8.0\Nullable_e_opcionais.exe
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\bin\Debug\net8.0\Nullable_e_opcionais.deps.json
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\bin\Debug\net8.0\Nullable_e_opcionais.runtimeconfig.json
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\bin\Debug\net8.0\Nullable_e_opcionais.dll
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\bin\Debug\net8.0\Nullable_e_opcionais.pdb
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\Nullable_e_opcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\Nullable_e_opcionais.AssemblyInfoInputs.cache
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\Nullable_e_opcionais.AssemblyInfo.cs
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\Nullable_e_opcionais.csproj.CoreCompileInputs.cache
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\Nullable_e_opcionais.dll
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\refint\Nullable_e_opcionais.dll
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\Nullable_e_opcionais.pdb
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\Nullable_e_opcionais.genruntimeconfig.cache
+C:\C sharp\Nullable_e_opcionais\Nullable_e_opcionais\obj\Debug\net8.0\ref\Nullable_e_opcionais.dll

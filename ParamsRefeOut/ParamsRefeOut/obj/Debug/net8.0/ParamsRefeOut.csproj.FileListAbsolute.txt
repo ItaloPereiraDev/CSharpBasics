@@ -1,0 +1,14 @@
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\bin\Debug\net8.0\ParamsRefeOut.exe
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\bin\Debug\net8.0\ParamsRefeOut.deps.json
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\bin\Debug\net8.0\ParamsRefeOut.runtimeconfig.json
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\bin\Debug\net8.0\ParamsRefeOut.dll
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\bin\Debug\net8.0\ParamsRefeOut.pdb
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\ParamsRefeOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\ParamsRefeOut.AssemblyInfoInputs.cache
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\ParamsRefeOut.AssemblyInfo.cs
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\ParamsRefeOut.csproj.CoreCompileInputs.cache
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\ParamsRefeOut.dll
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\refint\ParamsRefeOut.dll
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\ParamsRefeOut.pdb
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\ParamsRefeOut.genruntimeconfig.cache
+C:\C sharp\ParamsRefeOut\ParamsRefeOut\obj\Debug\net8.0\ref\ParamsRefeOut.dll

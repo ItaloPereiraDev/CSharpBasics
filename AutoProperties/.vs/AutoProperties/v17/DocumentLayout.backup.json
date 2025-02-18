@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C sharp\\AutoProperties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B49CA9-A257-4335-BBCF-927F569955B9}|AutoProperties\\AutoProperties.csproj|c:\\c sharp\\autoproperties\\autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B49CA9-A257-4335-BBCF-927F569955B9}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C sharp\\AutoProperties\\AutoProperties\\Program.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\Program.cs",
+              "ToolTip": "C:\\C sharp\\AutoProperties\\AutoProperties\\Program.cs",
+              "RelativeToolTip": "AutoProperties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:14:32.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

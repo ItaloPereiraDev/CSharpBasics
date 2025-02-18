@@ -1,0 +1,14 @@
+C:\C sharp\CondTernaria\CondTernaria\bin\Debug\net8.0\CondTernaria.exe
+C:\C sharp\CondTernaria\CondTernaria\bin\Debug\net8.0\CondTernaria.deps.json
+C:\C sharp\CondTernaria\CondTernaria\bin\Debug\net8.0\CondTernaria.runtimeconfig.json
+C:\C sharp\CondTernaria\CondTernaria\bin\Debug\net8.0\CondTernaria.dll
+C:\C sharp\CondTernaria\CondTernaria\bin\Debug\net8.0\CondTernaria.pdb
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\CondTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\CondTernaria.AssemblyInfoInputs.cache
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\CondTernaria.AssemblyInfo.cs
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\CondTernaria.csproj.CoreCompileInputs.cache
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\CondTernaria.dll
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\refint\CondTernaria.dll
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\CondTernaria.pdb
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\CondTernaria.genruntimeconfig.cache
+C:\C sharp\CondTernaria\CondTernaria\obj\Debug\net8.0\ref\CondTernaria.dll

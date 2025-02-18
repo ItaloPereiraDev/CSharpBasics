@@ -1,0 +1,14 @@
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.exe
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.deps.json
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.runtimeconfig.json
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.dll
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.pdb
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfo.cs
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.dll
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\refint\MembrosEstaticos.dll
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
+C:\C sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll

@@ -1,0 +1,14 @@
+C:\C sharp\VetoresParte2\VetoresParte2\bin\Debug\net8.0\VetoresParte2.exe
+C:\C sharp\VetoresParte2\VetoresParte2\bin\Debug\net8.0\VetoresParte2.deps.json
+C:\C sharp\VetoresParte2\VetoresParte2\bin\Debug\net8.0\VetoresParte2.runtimeconfig.json
+C:\C sharp\VetoresParte2\VetoresParte2\bin\Debug\net8.0\VetoresParte2.dll
+C:\C sharp\VetoresParte2\VetoresParte2\bin\Debug\net8.0\VetoresParte2.pdb
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\VetoresParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\VetoresParte2.AssemblyInfoInputs.cache
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\VetoresParte2.AssemblyInfo.cs
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\VetoresParte2.csproj.CoreCompileInputs.cache
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\VetoresParte2.dll
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\refint\VetoresParte2.dll
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\VetoresParte2.pdb
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\VetoresParte2.genruntimeconfig.cache
+C:\C sharp\VetoresParte2\VetoresParte2\obj\Debug\net8.0\ref\VetoresParte2.dll

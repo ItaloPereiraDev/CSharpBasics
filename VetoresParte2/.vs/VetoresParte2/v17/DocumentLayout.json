@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C sharp\\VetoresParte2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C55E0-B6BB-4144-9A49-648BB0E0F90D}|VetoresParte2\\VetoresParte2.csproj|c:\\c sharp\\vetoresparte2\\vetoresparte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C55E0-B6BB-4144-9A49-648BB0E0F90D}|VetoresParte2\\VetoresParte2.csproj|solutionrelative:vetoresparte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C55E0-B6BB-4144-9A49-648BB0E0F90D}|VetoresParte2\\VetoresParte2.csproj|c:\\c sharp\\vetoresparte2\\vetoresparte2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C55E0-B6BB-4144-9A49-648BB0E0F90D}|VetoresParte2\\VetoresParte2.csproj|solutionrelative:vetoresparte2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\C sharp\\VetoresParte2\\VetoresParte2\\Produto.cs",
+              "RelativeDocumentMoniker": "VetoresParte2\\Produto.cs",
+              "ToolTip": "C:\\C sharp\\VetoresParte2\\VetoresParte2\\Produto.cs",
+              "RelativeToolTip": "VetoresParte2\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:13:57.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C sharp\\VetoresParte2\\VetoresParte2\\Program.cs",
+              "RelativeDocumentMoniker": "VetoresParte2\\Program.cs",
+              "ToolTip": "C:\\C sharp\\VetoresParte2\\VetoresParte2\\Program.cs",
+              "RelativeToolTip": "VetoresParte2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:13:32.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

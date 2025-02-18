@@ -1,0 +1,14 @@
+C:\C sharp\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.exe
+C:\C sharp\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.deps.json
+C:\C sharp\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.runtimeconfig.json
+C:\C sharp\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.dll
+C:\C sharp\ExercicioVetores\ExercicioVetores\bin\Debug\net8.0\ExercicioVetores.pdb
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.AssemblyInfoInputs.cache
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.AssemblyInfo.cs
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.dll
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\refint\ExercicioVetores.dll
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.pdb
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ExercicioVetores.genruntimeconfig.cache
+C:\C sharp\ExercicioVetores\ExercicioVetores\obj\Debug\net8.0\ref\ExercicioVetores.dll

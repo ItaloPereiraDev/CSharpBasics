@@ -1,0 +1,14 @@
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\bin\Debug\net8.0\SegundaAulaObjetos.exe
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\bin\Debug\net8.0\SegundaAulaObjetos.deps.json
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\bin\Debug\net8.0\SegundaAulaObjetos.runtimeconfig.json
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\bin\Debug\net8.0\SegundaAulaObjetos.dll
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\bin\Debug\net8.0\SegundaAulaObjetos.pdb
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\SegundaAulaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\SegundaAulaObjetos.AssemblyInfoInputs.cache
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\SegundaAulaObjetos.AssemblyInfo.cs
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\SegundaAulaObjetos.csproj.CoreCompileInputs.cache
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\SegundaAulaObjetos.dll
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\refint\SegundaAulaObjetos.dll
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\SegundaAulaObjetos.pdb
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\SegundaAulaObjetos.genruntimeconfig.cache
+C:\C sharp\SegundaAulaObjetos\SegundaAulaObjetos\obj\Debug\net8.0\ref\SegundaAulaObjetos.dll

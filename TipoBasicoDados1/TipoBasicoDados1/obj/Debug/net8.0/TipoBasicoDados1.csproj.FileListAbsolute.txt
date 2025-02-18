@@ -1,0 +1,14 @@
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\bin\Debug\net8.0\TipoBasicoDados1.exe
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\bin\Debug\net8.0\TipoBasicoDados1.deps.json
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\bin\Debug\net8.0\TipoBasicoDados1.runtimeconfig.json
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\bin\Debug\net8.0\TipoBasicoDados1.dll
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\bin\Debug\net8.0\TipoBasicoDados1.pdb
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\TipoBasicoDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\TipoBasicoDados1.AssemblyInfoInputs.cache
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\TipoBasicoDados1.AssemblyInfo.cs
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\TipoBasicoDados1.csproj.CoreCompileInputs.cache
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\TipoBasicoDados1.dll
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\refint\TipoBasicoDados1.dll
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\TipoBasicoDados1.pdb
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\TipoBasicoDados1.genruntimeconfig.cache
+C:\C sharp\TipoBasicoDados1\TipoBasicoDados1\obj\Debug\net8.0\ref\TipoBasicoDados1.dll

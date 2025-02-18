@@ -1,0 +1,14 @@
+C:\C sharp\While\While\bin\Debug\net8.0\While.exe
+C:\C sharp\While\While\bin\Debug\net8.0\While.deps.json
+C:\C sharp\While\While\bin\Debug\net8.0\While.runtimeconfig.json
+C:\C sharp\While\While\bin\Debug\net8.0\While.dll
+C:\C sharp\While\While\bin\Debug\net8.0\While.pdb
+C:\C sharp\While\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\While\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+C:\C sharp\While\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+C:\C sharp\While\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+C:\C sharp\While\While\obj\Debug\net8.0\While.dll
+C:\C sharp\While\While\obj\Debug\net8.0\refint\While.dll
+C:\C sharp\While\While\obj\Debug\net8.0\While.pdb
+C:\C sharp\While\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+C:\C sharp\While\While\obj\Debug\net8.0\ref\While.dll

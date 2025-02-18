@@ -1,0 +1,14 @@
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresLogicos.exe
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresLogicos.dll
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresLogicos.pdb
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresLogicos.dll
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresLogicos.pdb
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+C:\C sharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\ref\OperadoresLogicos.dll

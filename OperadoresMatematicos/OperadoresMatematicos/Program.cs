@@ -1,0 +1,28 @@
+﻿using System;
+
+namespace MyApp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 10;
+            Console.WriteLine(a);
+            a += 2;
+            Console.WriteLine(a);
+            a *= 3;
+            Console.WriteLine(a);
+
+            string s = "ABC";
+            s += "DEF";
+            Console.WriteLine(s);
+
+            int x = 10;
+            int y = x++;
+            //Primeiro ele atribui o valor de x a y, e só depois ele soma. Então x = 11, y = 10.
+            //Pra somar primeiro, e depois atribuir, é só botar ++x
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+        }
+    }
+}

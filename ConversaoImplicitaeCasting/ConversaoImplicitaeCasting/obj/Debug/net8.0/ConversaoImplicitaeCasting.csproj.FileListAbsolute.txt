@@ -1,0 +1,14 @@
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\bin\Debug\net8.0\ConversaoImplicitaeCasting.exe
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\bin\Debug\net8.0\ConversaoImplicitaeCasting.deps.json
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\bin\Debug\net8.0\ConversaoImplicitaeCasting.runtimeconfig.json
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\bin\Debug\net8.0\ConversaoImplicitaeCasting.dll
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\bin\Debug\net8.0\ConversaoImplicitaeCasting.pdb
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\ConversaoImplicitaeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\ConversaoImplicitaeCasting.AssemblyInfoInputs.cache
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\ConversaoImplicitaeCasting.AssemblyInfo.cs
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\ConversaoImplicitaeCasting.csproj.CoreCompileInputs.cache
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\ConversaoImplicitaeCasting.dll
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\refint\ConversaoImplicitaeCasting.dll
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\ConversaoImplicitaeCasting.pdb
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\ConversaoImplicitaeCasting.genruntimeconfig.cache
+C:\C sharp\ConversaoImplicitaeCasting\ConversaoImplicitaeCasting\obj\Debug\net8.0\ref\ConversaoImplicitaeCasting.dll

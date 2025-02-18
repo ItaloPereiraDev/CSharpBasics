@@ -1,0 +1,14 @@
+C:\C sharp\FuncStrings\FuncStrings\bin\Debug\net8.0\FuncStrings.exe
+C:\C sharp\FuncStrings\FuncStrings\bin\Debug\net8.0\FuncStrings.deps.json
+C:\C sharp\FuncStrings\FuncStrings\bin\Debug\net8.0\FuncStrings.runtimeconfig.json
+C:\C sharp\FuncStrings\FuncStrings\bin\Debug\net8.0\FuncStrings.dll
+C:\C sharp\FuncStrings\FuncStrings\bin\Debug\net8.0\FuncStrings.pdb
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\FuncStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\FuncStrings.AssemblyInfoInputs.cache
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\FuncStrings.AssemblyInfo.cs
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\FuncStrings.csproj.CoreCompileInputs.cache
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\FuncStrings.dll
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\refint\FuncStrings.dll
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\FuncStrings.pdb
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\FuncStrings.genruntimeconfig.cache
+C:\C sharp\FuncStrings\FuncStrings\obj\Debug\net8.0\ref\FuncStrings.dll

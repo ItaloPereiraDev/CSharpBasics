@@ -1,0 +1,14 @@
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\bin\Debug\net8.0\PrimeiraAulaObjetosTriangulo.exe
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\bin\Debug\net8.0\PrimeiraAulaObjetosTriangulo.deps.json
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\bin\Debug\net8.0\PrimeiraAulaObjetosTriangulo.runtimeconfig.json
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\bin\Debug\net8.0\PrimeiraAulaObjetosTriangulo.dll
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\bin\Debug\net8.0\PrimeiraAulaObjetosTriangulo.pdb
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\PrimeiraAulaObjetosTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\PrimeiraAulaObjetosTriangulo.AssemblyInfoInputs.cache
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\PrimeiraAulaObjetosTriangulo.AssemblyInfo.cs
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\PrimeiraAulaObjetosTriangulo.csproj.CoreCompileInputs.cache
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\PrimeiraAulaObjetosTriangulo.dll
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\refint\PrimeiraAulaObjetosTriangulo.dll
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\PrimeiraAulaObjetosTriangulo.pdb
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\PrimeiraAulaObjetosTriangulo.genruntimeconfig.cache
+C:\C sharp\PrimeiraAulaObjetosTriangulo\PrimeiraAulaObjetosTriangulo\obj\Debug\net8.0\ref\PrimeiraAulaObjetosTriangulo.dll

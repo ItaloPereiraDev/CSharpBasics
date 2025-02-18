@@ -1,0 +1,14 @@
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\bin\Debug\net8.0\DateUTCeLocal.exe
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\bin\Debug\net8.0\DateUTCeLocal.deps.json
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\bin\Debug\net8.0\DateUTCeLocal.runtimeconfig.json
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\bin\Debug\net8.0\DateUTCeLocal.dll
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\bin\Debug\net8.0\DateUTCeLocal.pdb
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\DateUTCeLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\DateUTCeLocal.AssemblyInfoInputs.cache
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\DateUTCeLocal.AssemblyInfo.cs
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\DateUTCeLocal.csproj.CoreCompileInputs.cache
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\DateUTCeLocal.dll
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\refint\DateUTCeLocal.dll
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\DateUTCeLocal.pdb
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\DateUTCeLocal.genruntimeconfig.cache
+C:\C sharp\DateUTCeLocal\DateUTCeLocal\obj\Debug\net8.0\ref\DateUTCeLocal.dll

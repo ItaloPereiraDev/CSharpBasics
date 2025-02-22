@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C sharp\\ExercicioPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936A82E8-731A-4329-9274-6962B579C272}|ExercicioPolimorfismo\\ExercicioPolimorfismo.csproj|c:\\c sharp\\exerciciopolimorfismo\\exerciciopolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A82E8-731A-4329-9274-6962B579C272}|ExercicioPolimorfismo\\ExercicioPolimorfismo.csproj|solutionrelative:exerciciopolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936A82E8-731A-4329-9274-6962B579C272}|ExercicioPolimorfismo\\ExercicioPolimorfismo.csproj|c:\\c sharp\\exerciciopolimorfismo\\exerciciopolimorfismo\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A82E8-731A-4329-9274-6962B579C272}|ExercicioPolimorfismo\\ExercicioPolimorfismo.csproj|solutionrelative:exerciciopolimorfismo\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936A82E8-731A-4329-9274-6962B579C272}|ExercicioPolimorfismo\\ExercicioPolimorfismo.csproj|c:\\c sharp\\exerciciopolimorfismo\\exerciciopolimorfismo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A82E8-731A-4329-9274-6962B579C272}|ExercicioPolimorfismo\\ExercicioPolimorfismo.csproj|solutionrelative:exerciciopolimorfismo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "C:\\C sharp\\ExercicioPolimorfismo\\ExercicioPolimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "ExercicioPolimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "ToolTip": "C:\\C sharp\\ExercicioPolimorfismo\\ExercicioPolimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "ExercicioPolimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T19:11:34.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\C sharp\\ExercicioPolimorfismo\\ExercicioPolimorfismo\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ExercicioPolimorfismo\\Entities\\Employee.cs",
+              "ToolTip": "C:\\C sharp\\ExercicioPolimorfismo\\ExercicioPolimorfismo\\Entities\\Employee.cs",
+              "RelativeToolTip": "ExercicioPolimorfismo\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA4wBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T19:11:19.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C sharp\\ExercicioPolimorfismo\\ExercicioPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPolimorfismo\\Program.cs",
+              "ToolTip": "C:\\C sharp\\ExercicioPolimorfismo\\ExercicioPolimorfismo\\Program.cs",
+              "RelativeToolTip": "ExercicioPolimorfismo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T19:11:00.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\bin\Debug\net8.0\EnumsExercicio2.exe
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\bin\Debug\net8.0\EnumsExercicio2.deps.json
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\bin\Debug\net8.0\EnumsExercicio2.runtimeconfig.json
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\bin\Debug\net8.0\EnumsExercicio2.dll
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\bin\Debug\net8.0\EnumsExercicio2.pdb
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\EnumsExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\EnumsExercicio2.AssemblyInfoInputs.cache
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\EnumsExercicio2.AssemblyInfo.cs
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\EnumsExercicio2.csproj.CoreCompileInputs.cache
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\EnumsExercicio2.sourcelink.json
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\EnumsExercicio2.dll
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\refint\EnumsExercicio2.dll
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\EnumsExercicio2.pdb
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\EnumsExercicio2.genruntimeconfig.cache
+C:\C sharp\EnumsExercicio2\EnumsExercicio2\obj\Debug\net8.0\ref\EnumsExercicio2.dll

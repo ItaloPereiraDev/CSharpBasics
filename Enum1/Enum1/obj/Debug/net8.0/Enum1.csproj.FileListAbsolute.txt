@@ -1,0 +1,15 @@
+C:\C sharp\Enum1\Enum1\bin\Debug\net8.0\Enum1.exe
+C:\C sharp\Enum1\Enum1\bin\Debug\net8.0\Enum1.deps.json
+C:\C sharp\Enum1\Enum1\bin\Debug\net8.0\Enum1.runtimeconfig.json
+C:\C sharp\Enum1\Enum1\bin\Debug\net8.0\Enum1.dll
+C:\C sharp\Enum1\Enum1\bin\Debug\net8.0\Enum1.pdb
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\Enum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\Enum1.AssemblyInfoInputs.cache
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\Enum1.AssemblyInfo.cs
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\Enum1.csproj.CoreCompileInputs.cache
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\Enum1.sourcelink.json
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\Enum1.dll
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\refint\Enum1.dll
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\Enum1.pdb
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\Enum1.genruntimeconfig.cache
+C:\C sharp\Enum1\Enum1\obj\Debug\net8.0\ref\Enum1.dll

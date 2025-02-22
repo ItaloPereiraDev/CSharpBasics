@@ -1,0 +1,15 @@
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net8.0\ExercicioPolimorfismo.exe
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net8.0\ExercicioPolimorfismo.deps.json
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net8.0\ExercicioPolimorfismo.runtimeconfig.json
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net8.0\ExercicioPolimorfismo.dll
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\bin\Debug\net8.0\ExercicioPolimorfismo.pdb
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ExercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ExercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ExercicioPolimorfismo.AssemblyInfo.cs
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ExercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ExercicioPolimorfismo.sourcelink.json
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ExercicioPolimorfismo.dll
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\refint\ExercicioPolimorfismo.dll
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ExercicioPolimorfismo.pdb
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ExercicioPolimorfismo.genruntimeconfig.cache
+C:\C sharp\ExercicioPolimorfismo\ExercicioPolimorfismo\obj\Debug\net8.0\ref\ExercicioPolimorfismo.dll

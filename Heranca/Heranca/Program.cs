@@ -7,7 +7,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Account acc = new Account(1000, "Jhon Dove", 1000);
+            // Account acc = new Account(1000, "Jhon Dove", 1000); Como a classe é abstract, não funciona mais isso.
             BusinessAccount businessAcc = new BusinessAccount(1001, "Bob Brown", 500, 600);
 
             //Upcasting
@@ -36,9 +36,9 @@ namespace MyApp
                 Console.WriteLine("Updated!");
             }
             */
-            acc.Withdraw(100);
+            acc1.Withdraw(100);
             acc3.Withdraw(100);
-            Console.WriteLine(acc.Balance);
+            Console.WriteLine(acc1.Balance);
             Console.WriteLine(acc3.Balance);
         }
     }

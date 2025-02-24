@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Heranca_Casting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f4c8e7947afb8be5460ee78bc50e6f87e94390")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f438b9d11b9f652675f81e0a35577b4cc7bf6e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Heranca_Casting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Heranca_Casting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

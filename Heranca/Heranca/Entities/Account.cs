@@ -1,6 +1,6 @@
 ﻿namespace Heranca.Entities
 {
-    internal class Account
+    internal abstract class Account //Classe abstract = Serve de base para as outras, mas não pode ser criada sozinha
     {
         public int Number { get; private set; }
         public string Holder { get; private set; }

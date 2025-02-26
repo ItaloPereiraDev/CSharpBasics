@@ -11,3 +11,4 @@
 {
     Console.WriteLine("Only numbers allowed!");
 }
+//finally {} <-- Serve pra executar algo após o último catch, independente de ter dado erro ou não.

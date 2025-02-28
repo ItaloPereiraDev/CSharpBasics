@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Exceptions")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("XadrezNoConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82a240f1ebffbd5a2eecb49ab1c869045dfbfbc")]
-[assembly: System.Reflection.AssemblyProductAttribute("Exceptions")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Exceptions")]
+[assembly: System.Reflection.AssemblyProductAttribute("XadrezNoConsole")]
+[assembly: System.Reflection.AssemblyTitleAttribute("XadrezNoConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

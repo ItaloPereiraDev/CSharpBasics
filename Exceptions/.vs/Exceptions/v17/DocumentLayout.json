@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\C sharp\\Exceptions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97A6162C-75E0-45B1-A79C-AC2F5E5332F9}|Exceptions\\Exceptions.csproj|c:\\c sharp\\exceptions\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A6162C-75E0-45B1-A79C-AC2F5E5332F9}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97A6162C-75E0-45B1-A79C-AC2F5E5332F9}|Exceptions\\Exceptions.csproj|c:\\c sharp\\exceptions\\exceptions\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A6162C-75E0-45B1-A79C-AC2F5E5332F9}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97A6162C-75E0-45B1-A79C-AC2F5E5332F9}|Exceptions\\Exceptions.csproj|c:\\c sharp\\exceptions\\exceptions\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97A6162C-75E0-45B1-A79C-AC2F5E5332F9}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A6162C-75E0-45B1-A79C-AC2F5E5332F9}|Exceptions\\Exceptions.csproj|c:\\c sharp\\exceptions\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A6162C-75E0-45B1-A79C-AC2F5E5332F9}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DomainException.cs",
               "DocumentMoniker": "C:\\C sharp\\Exceptions\\Exceptions\\Entities\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Exceptions\\Entities\\Exceptions\\DomainException.cs",
@@ -39,20 +39,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\C sharp\\Exceptions\\Exceptions\\Entities\\Reservation.cs",
               "RelativeDocumentMoniker": "Exceptions\\Entities\\Reservation.cs",
               "ToolTip": "C:\\C sharp\\Exceptions\\Exceptions\\Entities\\Reservation.cs",
               "RelativeToolTip": "Exceptions\\Entities\\Reservation.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwCYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T21:08:15.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\C sharp\\Exceptions\\Exceptions\\Program.cs",
               "RelativeDocumentMoniker": "Exceptions\\Program.cs",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Exceptions\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T21:05:53.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T21:05:53.314Z"
             }
           ]
         }

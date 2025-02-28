@@ -1,0 +1,15 @@
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\bin\Debug\net8.0\XadrezNoConsole.exe
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\bin\Debug\net8.0\XadrezNoConsole.deps.json
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\bin\Debug\net8.0\XadrezNoConsole.runtimeconfig.json
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\bin\Debug\net8.0\XadrezNoConsole.dll
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\bin\Debug\net8.0\XadrezNoConsole.pdb
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\XadrezNoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\XadrezNoConsole.AssemblyInfoInputs.cache
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\XadrezNoConsole.AssemblyInfo.cs
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\XadrezNoConsole.csproj.CoreCompileInputs.cache
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\XadrezNoConsole.sourcelink.json
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\XadrezNoConsole.dll
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\refint\XadrezNoConsole.dll
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\XadrezNoConsole.pdb
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\XadrezNoConsole.genruntimeconfig.cache
+C:\C sharp\XadrezNoConsole\XadrezNoConsole\obj\Debug\net8.0\ref\XadrezNoConsole.dll

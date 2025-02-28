@@ -51,5 +51,16 @@ namespace XadrezNoConsole.Entities
             Pecas[pos.Linha, pos.Coluna] = p;
             p.Position = pos;
         }
+        public Peca retirarPeca(Posicao pos)
+        {
+            if (peca(pos) == null)
+            {
+                return null;
+            }
+            Peca aux = peca(pos);
+            aux.Position = null;
+            Pecas[pos.Linha, pos.Coluna] = null;
+            return aux;
+        }
     }
 }
